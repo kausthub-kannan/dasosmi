@@ -31,7 +31,7 @@ function App() {
      <div className='art'>
      <img id="hr" src={hr} alt="line"/>
       <p>
-        <h1>Artworks</h1>
+        <h1 class="content-header" id="s1">Artworks ... </h1>
         <h3>Where realism & digital meets service</h3>
         The essence of these celestial beings is captured through meticulous attention to detail and a profound reverence 
         for the divine. The artwork invites viewers to witness the gods and goddesses as tangible entities, bridging the 
@@ -50,7 +50,7 @@ function App() {
      <div className='articles'>
      <img id="hr" src={hr} alt="line"/>
       <p>
-        <h1>Articles And Blogs</h1>
+        <h1 class="content-header" id="s2">... Articles And Blogs</h1>
         <h3>Deep dive into philosophy of the eternal</h3>
         The pursuit of understanding the intricate relationship between the conscious entity and 
         the supreme conscious controller is a profound endeavor that engages the intellectual human mind. 
@@ -63,7 +63,7 @@ function App() {
      <div className='project'>
      <img id="hr" src={hr} alt="line"/>
       <p>
-        <h1>Project - Ranga</h1>
+        <h1 class="content-header" id="s3">Project - Ranga ... </h1>
         Renowned as Thiruvarangam and praised by the esteemed Alwars and eminent Acharyas, Srirangam stands as an invaluable gem 
         among the temples of India. Its grandeur transcends boundaries, encompassing literature, architecture, philosophy, and 
         the profound Bhakti movement. Within the endeavor named 'Project - Ranga,' the splendor of Srirangam is meticulously 
