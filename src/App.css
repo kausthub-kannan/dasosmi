@@ -1,0 +1,71 @@
+body{
+  font-size: 1.2rem;
+}
+
+#logo {
+  height: 13em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+#logo:hover {
+  filter: drop-shadow(0 0 2em #ffa764aa);
+}
+#logo.react:hover {
+  filter: drop-shadow(0 0 2em #fbbd61aa);
+}
+
+/* Head Section */
+
+.lol{
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.271), rgba(0, 0, 0, 0.271)), url('src/assets/bgbg.png');
+}
+
+#hr{
+  padding-bottom: -5%;
+}
+
+.head-section{
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.271), rgba(0, 0, 0, 0.271)), url('src/assets/head_section_bg.jpg');
+  width: 40%;
+  padding: 9% 9% 9% 9%;
+  margin: 0% 18% 0 20%;
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+}
+
+.content{
+  color: antiquewhite;
+}
+
+.art{
+  padding: 4% 4% 0 4%;
+  text-align: left;
+}
+
+h3{
+  margin-top: -2%;
+}
+
+.articles{
+  padding: 2% 4% 0 4%;
+  text-align: right;
+}
+
+.project{
+  padding: 2% 4% 0 4%;
+  text-align: left;
+}
+
+.display-work{
+  text-align: center;
+}
+
+#art-1{
+  width: 16%;
+  height: 80%;
+  padding: 2%;
+  border-radius: 40px;
+}
