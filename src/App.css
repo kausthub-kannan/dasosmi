@@ -1,3 +1,5 @@
+
+
 body{
   font-size: 1.2rem;
 }
@@ -21,22 +23,22 @@ body{
 }
 
 #s1{
-  width: 23%;
+  width: 25%;
 }
 
 #s2{
-  width: 41%;
-  margin-left: 57.5%;
+  width: 45%;
+  margin-left: 53.5%;
 }
 
 #s3{
-  width: 35%;
+  width: 38%;
 }
 
 /* Head Section */
 
 .lol{
-  background: linear-gradient(to top, rgba(0, 0, 0, 0.271), rgba(0, 0, 0, 0.271)), url('public/bgbg.png');
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.271), rgba(0, 0, 0, 0.271)), url('/bgbg.png');
 }
 
 #hr{
@@ -44,7 +46,7 @@ body{
 }
 
 .head-section{
-  background: linear-gradient(to top, rgba(0, 0, 0, 0.271), rgba(0, 0, 0, 0.271)), url('public/head_section_bg.jpg');
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.271), rgba(0, 0, 0, 0.271)), url('/head_section_bg.jpg');
   width: 40%;
   padding: 9% 9% 9% 9%;
   margin: 0% 18% 0 20%;
